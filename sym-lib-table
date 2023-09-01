@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rfidAntenna38x41")(type "KiCad")(uri "${KIPRJMOD}/rfidAntenna38x41.symbols/rfidAntenna38x41.kicad_sym")(options "")(descr ""))
+)
