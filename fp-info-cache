@@ -1,4 +1,4 @@
-21608953821427476
+21585899404428894
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53325,6 +53325,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32-WROOM-32D
+MODULE_ESP32-WROOM-32D
+
+
+0
+59
+59
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -82914,62 +82921,6 @@ rotary encoder
 0
 7
 6
-SamacSys_Parts
-ED
-ED
-Switch
-0
-2
-2
-SamacSys_Parts
-ESP32WROOM32D16MB
-ESP32-WROOM-32D (16MB)-3
-Integrated Circuit
-0
-39
-39
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SOIC127P600X175-8N
-SOIC --
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SON50P200X300X80-11N
-DQC001A
-Integrated Circuit
-0
-11
-11
-SamacSys_Parts
-SOP50P490X110-10N
-10-Lead Plastic Micro Small Outline Package (MS) [MSOP]
-Integrated Circuit
-0
-10
-10
-SamacSys_Parts
-SOT95P237X112-3N
-DBZ (R-PDSO-G3)
-Integrated Circuit
-0
-3
-3
-SamacSys_Parts
-ZX62B5PA33
-ZX62-B-5PA(33)
-Connector
-0
-11
-11
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -90124,6 +90075,55 @@ varistor
 0
 2
 2
+rfid
+CP2012
+
+
+0
+29
+29
+rfid
+CS1210F160
+
+
+0
+4
+4
+rfid
+HRS_U.FL-R-SMT(01)
+
+
+0
+3
+3
+rfid
+MAX17303X&plus_
+
+
+0
+15
+15
+rfid
+ST25R95-VMD5T
+
+
+0
+33
+33
+rfid
+antenna
+
+
+0
+2
+2
+rfidAntenna38x41
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
 rfidAntenna38x41
 PinHeader_1x03_P2.54mm_Vertical
 Through hole straight pin header, 1x03, 2.54mm pitch, single row
@@ -90137,109 +90137,4 @@ rfidAntenna38x41
 
 0
 4
-2
-scott
-CS1210F160
-
-
-0
-4
-4
-scott
-DO-214AC
-
-
-0
-2
-2
-scott
-ESP32-WROOM-32D
-2.4 GHz Wi-Fi and Bluetooth module, https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
-2.4 GHz Wi-Fi and Bluetooth module ESP32-D0WD Espressif ESP32-WROOM-32E
-0
-60
-39
-scott
-ESP_32_Breakout_1_thru_19_2.54mm
-Through hole straight pin header, 1x16, 2.54mm pitch, single row
-Through hole pin header THT 1x16 2.54mm single row
-0
-19
-19
-scott
-ESP_32_Breakout_20_thru_38_2.54mm
-Through hole straight pin header, 1x16, 2.54mm pitch, single row
-Through hole pin header THT 1x16 2.54mm single row
-0
-19
-19
-scott
-FIL_NFM18PS105R0J3D
-
-
-0
-4
-3
-scott
-GCT_USB4085-GF-A_REVA4
-
-
-0
-20
-20
-scott
-KH-TYPE-C-16P
-
-
-0
-20
-20
-scott
-LM1117-3.3
-module CMS SOT223 4 pins
-CMS SOT
-0
-4
-4
-scott
-MHT170RGBCT
-
-
-0
-4
-4
-scott
-NX2016SA-27.12MHZ
-
-
-0
-4
-4
-scott
-PTS815SJG250SMTRLFS
-
-
-0
-4
-4
-scott
-SOT-223
-module CMS SOT223 4 pins
-CMS SOT
-0
-4
-4
-scott
-ST25R95-VMD5T
-
-
-0
-33
-33
-scott
-TVS_LESD5D5.0CT1G
-
-
-0
-2
 2
